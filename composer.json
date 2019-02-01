@@ -1,0 +1,19 @@
+{
+    "name": "george518/tmall_spider",
+    "description": "tmall spider",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "george hao",
+            "email": "haodaquan2008@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "Ali\\":"src/"
+        }
+    }
+}
