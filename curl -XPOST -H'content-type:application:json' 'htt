@@ -1,0 +1,1 @@
+curl -XPOST -H'content-type:application/json' 'https://packagist.org/api/update-package?username=george518&apiToken=NvyfkR9ug2SDN3-_xaTT' -d'{"repository":{"url":"https://github.com/george518/tmall_spider"}}'
