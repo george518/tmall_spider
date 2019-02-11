@@ -9,7 +9,7 @@
             "email": "haodaquan2008@163.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "dev-0.0.1",
     "require": {},
     "autoload":{
         "psr-4":{
